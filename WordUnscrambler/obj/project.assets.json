@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arumb\\source\\repos\\WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj",
+      "projectUniqueName": "C:\\Users\\arumb\\source\\WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj",
       "projectName": "WordUnscrambler",
-      "projectPath": "C:\\Users\\arumb\\source\\repos\\WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj",
+      "projectPath": "C:\\Users\\arumb\\source\\WordUnscrambler\\WordUnscrambler\\WordUnscrambler.csproj",
       "packagesPath": "C:\\Users\\arumb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arumb\\source\\repos\\WordUnscrambler\\WordUnscrambler\\obj\\",
+      "outputPath": "C:\\Users\\arumb\\source\\WordUnscrambler\\WordUnscrambler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

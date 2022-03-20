@@ -12,3 +12,16 @@ C:\Users\arumb\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp
 C:\Users\arumb\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.dll
 C:\Users\arumb\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.pdb
 C:\Users\arumb\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.genruntimeconfig.cache
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.AssemblyInfoInputs.cache
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.AssemblyInfo.cs
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.dll
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.pdb
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp3.1\WordUnscrambler.exe
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp3.1\WordUnscrambler.deps.json
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp3.1\WordUnscrambler.runtimeconfig.json
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp3.1\WordUnscrambler.runtimeconfig.dev.json
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp3.1\WordUnscrambler.dll
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\bin\Debug\netcoreapp3.1\WordUnscrambler.pdb
+C:\Users\arumb\source\WordUnscrambler\WordUnscrambler\obj\Debug\netcoreapp3.1\WordUnscrambler.genruntimeconfig.cache
